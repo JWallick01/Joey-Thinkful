@@ -1,1 +1,3 @@
-# Joey-Thinkful Assignment solution for module 22.7
+# starter-joey-thinkful
+
+This repo contains the starter and solution code for the Joey Thinkful resume exercise.
